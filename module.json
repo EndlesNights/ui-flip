@@ -1,0 +1,12 @@
+{
+  "id": "ui-flip",
+  "title": "UI Flip",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": ["main.js"],
+  "description": "Adds an option to move the primary UI element from the right side of the screen to the left side.",
+  "url": "https://github.com/EndlesNights/ui-flip"
+}
