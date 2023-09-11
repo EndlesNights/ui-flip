@@ -10,5 +10,5 @@
   "description": "Adds an option to move the primary UI element from the right side of the screen to the left side.",
   "url": "https://github.com/EndlesNights/ui-flip",
   "manifest": "https://raw.githubusercontent.com/EndlesNights/ui-flip/main/module.json",
-	"download": "https://github.com/EndlesNights/ui-flip/archive/1.0.0.zip"
+  "download": "https://github.com/EndlesNights/ui-flip/archive/1.0.0.zip"
 }
